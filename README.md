@@ -16,7 +16,7 @@ Content:
       1.2.3.5 Apply Augmented Dickey Fuller Test to find out if the detrended and differenced time series is stationary\
       1.2.3.6 Check if data supports normality assumption\
       1.2.3.7 Perform two sided independent t-test\
-  1.3 Conclusion on Family Incidents Analysis\
+  1.3 Conclusion on Family Incidents Analysis
 
 References:
 
