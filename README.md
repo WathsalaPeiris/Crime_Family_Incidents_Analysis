@@ -1,9 +1,9 @@
 # Crime_Family_Incidents_Analysis
 The purpose of this analysis to find out if Covid-19 had an impact on Family Incidents in Victoria.\
-Technical skills: Python, Pandas, Matplotlib, Jupyter notebook\
+Technical skills: Python, Pandas, Matplotlib, Jupyter notebook
 
-Content:
-1. Number of Family Incidents within the period from Jan-18 to Dec-22 
+Content:\
+1. Number of Family Incidents within the period from Jan-18 to Dec-22\
   1.1 Cleaning Family Incidents data
   1.2 Analysing Family Incidents data
     1.2.1 Family Incidents Analysis - Part 1 - Depicting Overall Trend
